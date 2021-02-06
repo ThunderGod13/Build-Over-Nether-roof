@@ -38,10 +38,11 @@ Now install the Lucky patcher and give it storage permission
 Now open it one time and then close it
 Now a folder with name "ru.SjPgYpMH.tUEhMoGVR"
 Should appear in your
-internal_storage/android/data/ru.SjPgYpMH.tUEhMoGVR/LuckyPatcher
+internal_storage/android/data/
 
 Copy the copy the file called com.mojang.minecraftpe.txt to 
-Storage/android/data/
+
+internal_storage/android/data/ru.SjPgYpMH.tUEhMoGVR
 
 And then open Lucky patcher and click on Minecraft in the LuckyPatcher app
 And then click on menu of patches
