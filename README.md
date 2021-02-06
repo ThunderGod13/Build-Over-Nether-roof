@@ -26,8 +26,8 @@ this project took tons of effort
 
 
 # First install the requirements
-Lucky patcher,
-A custom patch script my me (ThunderGod)
+
+Lucky patcher,And A custom patch script my me (ThunderGod)
 
 I have put a link to those requirements as a full kit
 https://drive.google.com/file/d/1UCGIqGZtRsDhVWFKzuKAQTo2VFufK6G3/view?usp=drivesdk
