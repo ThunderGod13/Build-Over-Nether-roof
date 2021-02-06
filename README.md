@@ -12,11 +12,12 @@ the patching way will be very ver easy
 
 but remember, finding the correct binary
 
-was nothing like patchinh
+was nothing like patching
 
 finding the correct binary was a huge job
 
-patchinh the game will be very easy since i am giving the correct binary with the file
+patching the game will be very easy since i am giving the correct binary with the file
+
 this project took tons of effort
 
 
