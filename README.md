@@ -16,6 +16,8 @@ was nothing like patching
 
 finding the correct binary was a huge job
 
+Youtuber "Rufus Atticus" helped with that 
+
 patching the game will be very easy since i am giving the correct binary with the file
 
 this project took tons of effort
