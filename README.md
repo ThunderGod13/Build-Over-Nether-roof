@@ -29,8 +29,9 @@ this project took tons of effort
 
 Lucky patcher And A custom patch script by me (ThunderGod)
 
-I have put a link to those requirements as a full kit
-https://drive.google.com/file/d/1UCGIqGZtRsDhVWFKzuKAQTo2VFufK6G3/view?usp=drivesdk
+First install lucky Patcher from its official site
+Now download the patch script for the version you want
+To patch from the bottom of this page
 
 # Now the patching part
 
